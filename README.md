@@ -1,4 +1,6 @@
-# tetris
-Bryn got me hooked on Tetris so now I'm trying to make a bot
+# projects
 
-The internet helped a lot with this
+An assortment of projects that I wanted to try out.
+
+Tetris
+-Bryn got me hooked on Tetris during junior year
