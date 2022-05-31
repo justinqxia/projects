@@ -40,6 +40,4 @@ while(answer != "Exit"):
         print("Correct")
     else:
         print("Incorrect: The answer is "+correct)
-        print(answer)
-        print(correct)
     print("")
